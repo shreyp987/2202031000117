@@ -1,0 +1,87 @@
+.rectangle-icon {
+  width: 394px;
+  position: relative;
+  height: 360px;
+  object-fit: cover;
+}
+.sofa {
+  position: relative;
+  line-height: 130%;
+  font-weight: 500;
+}
+.sofa-empuk-banget,
+.using-kapuk-randu {
+  width: 346px;
+  position: relative;
+  display: inline-block;
+}
+.sofa-empuk-banget {
+  letter-spacing: 0.01em;
+  line-height: 130%;
+  font-weight: 600;
+}
+.using-kapuk-randu {
+  font-size: var(--headings-h5-bold-18-size);
+  line-height: 180%;
+  font-weight: 500;
+  color: var(--grey);
+}
+.title {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px 0;
+}
+.b6 {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 130%;
+}
+.frame-div,
+.rectangle-group,
+.rectangle-parent,
+.sofa-parent,
+.title-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.title-parent {
+  gap: 18px 0;
+  font-size: var(--font-size-7xl);
+  color: var(--black);
+}
+.frame-div,
+.rectangle-group,
+.rectangle-parent,
+.sofa-parent {
+  gap: 14px 0;
+}
+.frame-div,
+.rectangle-group,
+.rectangle-parent {
+  position: absolute;
+  top: 183px;
+  left: 64px;
+  gap: 26px 0;
+}
+.frame-div,
+.rectangle-group {
+  left: 545px;
+}
+.frame-div {
+  left: 994px;
+}
+.desktop-4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--screen-color);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--headings-h5-bold-18-size);
+  color: var(--grey);
+  font-family: var(--font-general-sans);
+}

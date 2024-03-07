@@ -1,0 +1,59 @@
+.mask-group-icon {
+  position: absolute;
+  top: 135px;
+  left: 842px;
+  width: 500px;
+  height: 754px;
+  object-fit: contain;
+}
+.beautify-your-space {
+  position: absolute;
+  top: 197px;
+  left: 147px;
+  display: inline-block;
+  width: 394px;
+  height: 39.2px;
+}
+.do-eiusmod-tempor {
+  margin: 0;
+}
+.treating-all-skin-container {
+  position: absolute;
+  height: 11.97%;
+  width: 35.69%;
+  top: 27.15%;
+  left: 10.21%;
+  font-size: var(--font-size-xl);
+  line-height: 39px;
+  color: var(--color-dimgray-100);
+  display: inline-block;
+}
+.book-an-appointment {
+  position: relative;
+  text-transform: uppercase;
+}
+.book-an-appointment-wrapper {
+  position: absolute;
+  top: 674px;
+  left: 176px;
+  border-radius: var(--br-31xl);
+  background-color: var(--primary-color);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 24px 57px;
+  font-size: var(--font-size-base);
+  color: var(--screen-color);
+}
+.desktop-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--screen-color);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-montserrat);
+}

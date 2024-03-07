@@ -1,0 +1,145 @@
+.browse-the-range {
+  position: absolute;
+  top: 114px;
+  left: 563px;
+  font-size: var(--font-size-13xl);
+  text-align: left;
+}
+.treating-all-skin1 {
+  position: absolute;
+  height: 2.93%;
+  width: 38.82%;
+  top: 16.11%;
+  left: 31.67%;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-100);
+  display: inline-block;
+}
+.image-living-room-icon,
+.mask-group-icon1,
+.mask-group-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 381px;
+  height: 480px;
+  object-fit: cover;
+}
+.image-living-room-icon,
+.mask-group-icon2 {
+  left: 401px;
+}
+.mask-group-icon2 {
+  left: 802px;
+}
+.mask-group-parent {
+  position: absolute;
+  top: 244px;
+  left: 158px;
+  width: 1183px;
+  height: 480px;
+}
+.bedroom,
+.dining,
+.living {
+  position: absolute;
+  top: 796px;
+  left: 307px;
+  font-weight: 600;
+}
+.bedroom,
+.living {
+  left: 719px;
+}
+.bedroom {
+  top: 790px;
+  left: 1123px;
+}
+.mask-group-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 381px;
+  height: 400px;
+  object-fit: cover;
+}
+.group-inner {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gray-100);
+  width: 90px;
+  height: 90px;
+}
+.b,
+.ellipse-div,
+.group-inner {
+  position: absolute;
+}
+.ellipse-div {
+  top: 15px;
+  left: 15px;
+  border-radius: 50%;
+  background-color: var(--color-gray-200);
+  width: 60px;
+  height: 60px;
+}
+.b {
+  top: 31px;
+  left: 39px;
+  display: inline-block;
+  width: 16px;
+  height: 23px;
+}
+.ellipse-parent {
+  position: absolute;
+  top: 355px;
+  left: 145px;
+  width: 90px;
+  height: 90px;
+}
+.b1,
+.purchase-securely {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 381px;
+  height: 445px;
+}
+.b1 {
+  top: 31px;
+  left: 36px;
+  display: inline-block;
+  width: 21px;
+  height: 23px;
+}
+.purchase-securely-parent,
+.ships-from-warehouse,
+.style-your-room {
+  position: absolute;
+  top: 0;
+  left: 401px;
+  width: 381px;
+  height: 445px;
+}
+.purchase-securely-parent,
+.style-your-room {
+  left: 802px;
+}
+.purchase-securely-parent {
+  top: 1662px;
+  left: 214px;
+  width: 1183px;
+  color: var(--screen-color);
+}
+.desktop-3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--screen-color);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-montserrat);
+}

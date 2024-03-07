@@ -1,0 +1,153 @@
+.browse-the-range1 {
+  position: absolute;
+  top: 78px;
+  left: 563px;
+  font-size: var(--font-size-13xl);
+  text-align: left;
+}
+.treating-all-skin2 {
+  position: absolute;
+  height: 2.93%;
+  width: 38.82%;
+  top: 14.94%;
+  left: 30.56%;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-100);
+  display: inline-block;
+}
+.mask-group-icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 381px;
+  height: 400px;
+  object-fit: cover;
+}
+.group-child5,
+.group-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gray-100);
+  width: 90px;
+  height: 90px;
+}
+.group-child6 {
+  top: 15px;
+  left: 15px;
+  background-color: var(--color-gray-200);
+  width: 60px;
+  height: 60px;
+}
+.b3 {
+  position: absolute;
+  top: 31px;
+  left: 39px;
+  display: inline-block;
+  width: 16px;
+  height: 23px;
+}
+.ellipse-parent1 {
+  position: absolute;
+  top: 355px;
+  left: 145px;
+  width: 90px;
+  height: 90px;
+}
+.b4,
+.purchase-securely1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 381px;
+  height: 445px;
+}
+.b4 {
+  top: 31px;
+  left: 36px;
+  display: inline-block;
+  width: 21px;
+  height: 23px;
+}
+.purchase-securely-group,
+.ships-from-warehouse1,
+.style-your-room1 {
+  position: absolute;
+  top: 0;
+  left: 401px;
+  width: 381px;
+  height: 445px;
+}
+.purchase-securely-group,
+.style-your-room1 {
+  left: 802px;
+}
+.purchase-securely-group {
+  top: 311px;
+  left: 128px;
+  width: 1183px;
+  color: var(--screen-color);
+}
+.purchase-securely2 {
+  position: absolute;
+  top: 805px;
+  left: 182px;
+  text-align: left;
+}
+.treating-all-skin3 {
+  position: absolute;
+  height: 5.27%;
+  width: 26.46%;
+  top: 86.33%;
+  left: 7.5%;
+  font-size: var(--headings-h5-bold-18-size);
+  line-height: 28px;
+  color: var(--color-dimgray-100);
+  display: inline-block;
+}
+.ships-from-warehouse2 {
+  position: absolute;
+  top: 805px;
+  left: 564px;
+  text-align: left;
+}
+.treating-all-skin4 {
+  position: absolute;
+  height: 5.27%;
+  width: 26.46%;
+  top: 86.33%;
+  left: 38.06%;
+  font-size: var(--headings-h5-bold-18-size);
+  line-height: 28px;
+  color: var(--color-dimgray-100);
+  display: inline-block;
+}
+.style-your-room2 {
+  position: absolute;
+  top: 805px;
+  left: 1018px;
+  text-align: left;
+}
+.treating-all-skin5 {
+  position: absolute;
+  height: 5.27%;
+  width: 26.46%;
+  top: 86.33%;
+  left: 66.94%;
+  font-size: var(--headings-h5-bold-18-size);
+  line-height: 28px;
+  color: var(--color-dimgray-100);
+  display: inline-block;
+}
+.desktop-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--screen-color);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-montserrat);
+}
